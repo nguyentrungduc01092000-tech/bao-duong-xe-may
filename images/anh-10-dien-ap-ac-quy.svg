@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="t10 d10">
+<title id="t10">Bảng điện áp ắc quy 12 V theo sổ tay Yuasa</title>
+<desc id="d10">Bảng mức sạc ắc quy 12 V theo điện áp mạch hở trong sổ tay kỹ thuật của Yuasa: 12,60 V là 100 phần trăm, đầy; 12,40 V là 75 phần trăm; 12,10 V là 50 phần trăm; 11,90 V là 25 phần trăm; dưới 11,80 V là 0 phần trăm, cạn. Ắc quy kín VRLA có điện áp mạch hở ổn định dưới 12,5 V thì cần sạc.</desc>
+<rect x="10" y="10" width="780" height="400" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="400" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">ĐIỆN ÁP ẮC QUY 12 V — MỨC SẠC THEO YUASA</text>
+<text x="400" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#555555">Sổ tay kỹ thuật Yuasa — đo mạch hở, để ổn định 1–2 giờ trước khi đo</text>
+<g font-family="sans-serif" font-size="18" fill="#222222">
+<rect x="120" y="100" width="560" height="38" fill="#e8eef7" stroke="#333333"/>
+<text x="140" y="126" font-weight="bold">Điện áp đo được</text><text x="470" y="126" font-weight="bold">Mức sạc</text>
+<g stroke="#999999" fill="none">
+<rect x="120" y="138" width="560" height="38"/><rect x="120" y="176" width="560" height="38"/><rect x="120" y="214" width="560" height="38"/><rect x="120" y="252" width="560" height="38"/><rect x="120" y="290" width="560" height="38"/>
+<line x1="450" y1="100" x2="450" y2="328"/>
+</g>
+<text x="140" y="164">12,60 V</text><text x="470" y="164">100% — đầy</text>
+<text x="140" y="202">12,40 V</text><text x="470" y="202">75%</text>
+<text x="140" y="240">12,10 V</text><text x="470" y="240">50%</text>
+<text x="140" y="278">11,90 V</text><text x="470" y="278">25%</text>
+<text x="140" y="316">Dưới 11,80 V</text><text x="470" y="316">0% — cạn</text>
+<text x="400" y="356" text-anchor="middle" font-size="16" font-weight="bold" fill="#b30000">Ắc quy kín VRLA: dưới 12,5 V thì sạc lại.</text>
+<text x="400" y="380" text-anchor="middle" font-size="15" fill="#555555">12,80 V với loại có Sulfate Stop cũng là 100%.</text>
+</g>
+<text x="400" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777777">Sơ đồ tự vẽ — không dùng ảnh mạng</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="t9 d9">
+<title id="t9">Các loại lọc gió và cách xử lý từng loại</title>
+<desc id="d9">Ba loại lọc gió và cách xử lý: lọc gió giấy tẩm dầu, loại nhớt, trên Honda Wave Alpha 110 thì không thổi, không rửa, không tự vệ sinh mà để đại lý làm, lọc đã bẩn thì thay mới; lọc gió tẩm dầu trên xe tay ga Yamaha thì không vệ sinh định kỳ, kiểm tra và thay mới trước cột mốc 10.000 km; lọc gió mút thì bài không nêu mẫu xe cụ thể, người đọc mở sách của xe mình và làm đúng những gì sách ghi.</desc>
+<rect x="10" y="10" width="780" height="400" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="400" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">LỌC GIÓ — LOẠI NÀO XỬ LÝ THẾ NÀO</text>
+<text x="400" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#555555">Theo sách Honda và hướng dẫn của Yamaha — đọc sách của xe mình</text>
+<g font-family="sans-serif" font-size="17" fill="#222222">
+<rect x="60" y="95" width="680" height="78" fill="#e8eef7" stroke="#333333" stroke-width="2"/>
+<text x="80" y="123" font-weight="bold">Lọc gió giấy tẩm dầu (loại nhớt) — Honda Wave Alpha 110</text>
+<text x="80" y="150">Không thổi, không rửa, không tự vệ sinh — để đại lý làm.</text>
+<text x="80" y="172" fill="#555555" font-size="15">Lọc gió đã bẩn thì thay mới, không vệ sinh lại.</text>
+<rect x="60" y="183" width="680" height="78" fill="#d9f2d9" stroke="#1a7a1a" stroke-width="2"/>
+<text x="80" y="211" font-weight="bold">Lọc gió tẩm dầu — xe tay ga Yamaha</text>
+<text x="80" y="238">Không vệ sinh định kỳ; kiểm tra và thay mới</text>
+<text x="80" y="260" fill="#555555" font-size="15">trước cột mốc 10.000 km.</text>
+<rect x="60" y="271" width="680" height="78" fill="#fff2cc" stroke="#b38f00" stroke-width="2"/>
+<text x="80" y="299" font-weight="bold">Lọc gió mút</text>
+<text x="80" y="326">Bài không nêu mẫu xe cụ thể nào dùng loại mút.</text>
+<text x="80" y="348" fill="#555555" font-size="15">Mở sách của xe mình, làm đúng những gì sách ghi.</text>
+<text x="400" y="382" text-anchor="middle" font-size="15" fill="#555555">Sách Honda không ghi mốc km thay lọc gió chính cố định.</text>
+</g>
+<text x="400" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777777">Sơ đồ tự vẽ — không dùng ảnh mạng</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="t2 d2">
+<title id="t2">Que thăm nhớt với vạch mức trên và mức dưới</title>
+<desc id="d2">Sơ đồ que thăm nhớt của xe máy: que thăm dựng đứng, có vạch mức trên và vạch mức dưới. Mức nhớt đúng là nằm giữa hai vạch; nhớt dưới vạch dưới là thiếu, nhớt trên vạch trên là thừa.</desc>
+<rect x="10" y="10" width="780" height="400" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="400" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">QUE THĂM NHỚT — MỨC ĐÚNG NẰM GIỮA HAI VẠCH</text>
+<g font-family="sans-serif" font-size="17" fill="#222222">
+<rect x="370" y="90" width="60" height="260" fill="#f5e6c8" stroke="#333333" stroke-width="2"/>
+<rect x="370" y="90" width="60" height="40" fill="#c8a24a" stroke="#333333" stroke-width="2"/>
+<line x1="340" y1="160" x2="460" y2="160" stroke="#1a7a1a" stroke-width="3"/>
+<text x="480" y="167">Vạch mức trên</text>
+<line x1="340" y1="290" x2="460" y2="290" stroke="#b30000" stroke-width="3"/>
+<text x="480" y="297">Vạch mức dưới</text>
+<text x="480" y="220" fill="#1a7a1a" font-weight="bold">Mức đúng: giữa hai vạch</text>
+<text x="120" y="167">Thừa nhớt</text>
+<text x="120" y="297">Thiếu nhớt</text>
+<text x="120" y="360">Kiểm tra khi xe dựng thẳng,</text>
+<text x="120" y="385">động cơ đã nguội, que thăm</text>
+<text x="480" y="360">không vặn vào khi đo</text>
+<text x="480" y="385">(theo sách từng mẫu xe)</text>
+</g>
+<text x="400" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777777">Sơ đồ tự vẽ — không dùng ảnh mạng</text>
+</svg>

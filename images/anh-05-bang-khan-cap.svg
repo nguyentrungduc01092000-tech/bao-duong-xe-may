@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="t5 d5">
+<title id="t5">Bảng ba mức khẩn cấp khi xe có dấu hiệu bất thường</title>
+<desc id="d5">Bảng ba mức khẩn cấp tự làm: mức xanh là theo dõi và đặt lịch kiểm tra trong tuần, mức vàng là đi chậm tới tiệm trong ngày, mức đỏ là dừng xe ngay và không chạy tiếp. Bảng này giúp người đọc quyết định nhanh khi xe có dấu hiệu lạ.</desc>
+<rect x="10" y="10" width="780" height="400" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="400" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">BA MỨC KHẨN CẤP — XE CÓ DẤU HIỆU LẠ THÌ LÀM GÌ?</text>
+<g font-family="sans-serif" font-size="18" fill="#222222">
+<rect x="60" y="90" width="680" height="80" fill="#d9f2d9" stroke="#1a7a1a" stroke-width="2"/>
+<text x="80" y="122" font-weight="bold" fill="#1a7a1a">XANH — Theo dõi</text>
+<text x="80" y="152">Dấu hiệu nhẹ, xe vẫn chạy bình thường: đặt lịch kiểm tra trong tuần.</text>
+<rect x="60" y="185" width="680" height="80" fill="#fff2cc" stroke="#b38f00" stroke-width="2"/>
+<text x="80" y="217" font-weight="bold" fill="#7a5c00">VÀNG — Đi chậm tới tiệm trong ngày</text>
+<text x="80" y="247">Dấu hiệu rõ hơn, xe chạy khác mọi ngày: đi chậm, tránh đường xa.</text>
+<rect x="60" y="280" width="680" height="80" fill="#fbd9d9" stroke="#b30000" stroke-width="2"/>
+<text x="80" y="312" font-weight="bold" fill="#b30000">ĐỎ — Dừng xe ngay, không chạy tiếp</text>
+<text x="80" y="342">Mất an toàn: phanh không ăn, lốp nứt, xe rung lắc mạnh, rò rỉ xăng.</text>
+</g>
+<text x="400" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777777">Bảng tự làm — sơ đồ tự vẽ, không dùng ảnh mạng</text>
+</svg>

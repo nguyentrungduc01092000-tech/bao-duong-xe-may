@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="t3 d3">
+<title id="t3">Mặt cắt gai lốp với vạch chỉ thị mòn cao 0,8 mm</title>
+<desc id="d3">Mặt cắt ngang gai lốp xe máy: các rãnh gai sâu khi lốp còn mới, và một gờ nhỏ ở đáy rãnh gọi là vạch chỉ thị mòn, cao 0,8 mm theo tài liệu Michelin. Khi mặt gai mòn xuống ngang với gờ này thì lốp đã tới giới hạn mòn và cần thay, nên thay trước khi tới mức đó.</desc>
+<rect x="10" y="10" width="780" height="400" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="400" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">VẠCH CHỈ THỊ MÒN CỦA LỐP — CAO 0,8 MM</text>
+<g font-family="sans-serif" font-size="16" fill="#222222">
+<rect x="120" y="120" width="560" height="120" fill="#333333"/>
+<g fill="#ffffff">
+<rect x="150" y="120" width="40" height="70"/><rect x="250" y="120" width="40" height="70"/><rect x="350" y="120" width="40" height="70"/><rect x="450" y="120" width="40" height="70"/><rect x="550" y="120" width="40" height="70"/>
+</g>
+<rect x="290" y="190" width="60" height="50" fill="#e6b800" stroke="#333333" stroke-width="2"/>
+<text x="380" y="215" fill="#b30000" font-weight="bold">Vạch chỉ thị mòn</text>
+<text x="380" y="240" fill="#b30000">cao 0,8 mm (Michelin)</text>
+<line x1="120" y1="190" x2="680" y2="190" stroke="#b30000" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="120" y="280">Gai lốp mòn xuống ngang vạch này</text>
+<text x="120" y="305">= lốp đã tới giới hạn mòn, cần thay.</text>
+<text x="120" y="335">Michelin khuyên thay trước khi tới mức đó,</text>
+<text x="120" y="360">nhất là khi đi đường ướt.</text>
+</g>
+<text x="400" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777777">Sơ đồ tự vẽ — không dùng ảnh mạng</text>
+</svg>

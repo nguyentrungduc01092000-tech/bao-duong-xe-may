@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="t6 d6">
+<title id="t6">Thang phân loại JASO theo chỉ số ma sát động DFI</title>
+<desc id="d6">Thang phân loại dầu xe máy theo tiêu chuẩn JASO T903:2016, dựa trên chỉ số ma sát động DFI: MB từ 0,40 trở lên và dưới 1,35, dùng cho xe tay ga; MA1 từ 1,35 trở lên và dưới 1,50, dùng cho xe số; MA2 từ 1,50 trở lên và dưới 2,50, dùng cho xe số, có mức ma sát cao hơn MA1.</desc>
+<rect x="10" y="10" width="780" height="400" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="400" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">THANG PHÂN LOẠI JASO — CHỈ SỐ MA SÁT DFI</text>
+<text x="400" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#555555">Theo JASO T903:2016 — chỉ số ma sát động (DFI)</text>
+<g font-family="sans-serif" font-size="17" fill="#222222">
+<text x="60" y="140" font-weight="bold">MB — xe tay ga</text>
+<rect x="312" y="118" width="193" height="34" fill="#cfe8d4" stroke="#1a7a1a" stroke-width="2"/>
+<text x="520" y="141">≥ 0,40 và &lt; 1,35</text>
+<text x="60" y="200" font-weight="bold">MA1 — xe số</text>
+<rect x="505" y="178" width="31" height="34" fill="#fff2cc" stroke="#b38f00" stroke-width="2"/>
+<text x="548" y="201">≥ 1,35 và &lt; 1,50</text>
+<text x="60" y="260" font-weight="bold">MA2 — xe số</text>
+<rect x="536" y="238" width="204" height="34" fill="#d9e8f7" stroke="#2a5a8a" stroke-width="2"/>
+<text x="638" y="261" text-anchor="middle">≥ 1,50 và &lt; 2,50</text>
+<g stroke="#333333" stroke-width="2">
+<line x1="230" y1="310" x2="740" y2="310"/>
+<line x1="230" y1="304" x2="230" y2="316"/><line x1="312" y1="304" x2="312" y2="316"/><line x1="505" y1="304" x2="505" y2="316"/><line x1="536" y1="304" x2="536" y2="316"/><line x1="740" y1="304" x2="740" y2="316"/>
+</g>
+<g font-size="14" fill="#555555" text-anchor="middle">
+<text x="230" y="332">0</text><text x="312" y="332">0,40</text><text x="505" y="332">1,35</text><text x="536" y="332">1,50</text><text x="740" y="332">2,50</text>
+</g>
+<text x="400" y="368" text-anchor="middle" font-size="15" fill="#555555">MA2 có mức ma sát cao hơn MA1. Một trong ba chỉ số rơi vào khoảng MB thì dầu xếp loại MB.</text>
+</g>
+<text x="400" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777777">Sơ đồ tự vẽ — không dùng ảnh mạng</text>
+</svg>

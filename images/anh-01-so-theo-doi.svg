@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="t1 d1">
+<title id="t1">Sổ theo dõi bảo dưỡng xe máy</title>
+<desc id="d1">Mẫu sổ theo dõi bảo dưỡng dạng bảng trống, có bốn cột: mốc km, hạng mục, ngày làm và ghi chú. Người đọc in ra hoặc chép tay để ghi lại từng lần bảo dưỡng xe của mình.</desc>
+<rect x="10" y="10" width="780" height="400" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="400" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">SỔ THEO DÕI BẢO DƯỠNG XE MÁY</text>
+<text x="400" y="80" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#555555">Ghi lại từng lần làm — đừng chỉ nhớ trong đầu</text>
+<g font-family="sans-serif" font-size="17" fill="#222222">
+<rect x="40" y="110" width="720" height="40" fill="#e8eef7" stroke="#333333"/>
+<text x="60" y="137">Mốc km</text><text x="200" y="137">Hạng mục</text><text x="450" y="137">Ngày làm</text><text x="600" y="137">Ghi chú</text>
+<g stroke="#999999" fill="none">
+<rect x="40" y="150" width="720" height="45"/><rect x="40" y="195" width="720" height="45"/><rect x="40" y="240" width="720" height="45"/><rect x="40" y="285" width="720" height="45"/><rect x="40" y="330" width="720" height="45"/>
+<line x1="180" y1="110" x2="180" y2="375"/><line x1="430" y1="110" x2="430" y2="375"/><line x1="580" y1="110" x2="580" y2="375"/>
+</g>
+<text x="60" y="178" fill="#888888">1.000</text><text x="200" y="178" fill="#888888">Thay nhớt, kiểm tra phanh</text>
+<text x="60" y="223" fill="#888888">6.000</text>
+<text x="60" y="268" fill="#888888">12.000</text>
+</g>
+<text x="400" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777777">Sơ đồ tự vẽ — không dùng ảnh mạng</text>
+</svg>
